@@ -8,14 +8,14 @@
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido utilizando essas tecnologias:
+Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - [HTML]
 - [CSS]
 
 ## 💻 Projeto
 
-O site do Starbucks foi um projeto desenvolvido durante as aulas da plataforma B7WEB do módulo 11. 💜 
+O site do Starbucks foi um projeto desenvolvido durante as aulas da plataforma B7WEB do módulo 11 de HTML e CSS. 💜 
 
 ## 🔖 Layout
 
@@ -23,4 +23,4 @@ Você pode visualizar o layout do projeto através dos links abaixo:
 
 - [Layout Web](https://starbucks.nicepage.io/) 
 
-<p align="center">Desenvolvido por Shayane Teixeira e B7WEB</p>
+<p align="center">Desenvolvido por Shayane Teixeira</p>
